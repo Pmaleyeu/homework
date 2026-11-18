@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Factorial test suite">
+    <test name="Factorial tests">
+        <classes>
+            <class name="homework.FactorialTestNgTest"/>
+        </classes>
+    </test>
+</suite>
